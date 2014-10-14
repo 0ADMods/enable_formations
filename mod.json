@@ -1,0 +1,9 @@
+{
+    "name": "enable_formations",
+    "version": "0.0.17",
+    "label": "Enable Formations",
+    "url": "github.com/0ADMods/enable_formations",
+    "description": "Re-enable formations in Alpha 17.",
+    "dependencies": ["0ad"],
+    "type": "template"
+}
